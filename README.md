@@ -1,7 +1,14 @@
-Hello, my name is Betti Abbattista, I am 22. I am a fresh graduate in the bachelor's degree of Cinema and Media. 🎥🎬
-I am passionate about animated content and CGI. 💻👩‍💻 I've been working at the MAD Entertainment animation studio for three years, as a tool developer and occasionally rigger and technical artist. 🎨🔢
+Hello 👋   
+My name is Betti Abbattista 🦌   
+22 Y/O 📅  
+Fresh graduate in the bachelor's degree of Cinema and Media 🎥🎬  
+Animated content and CGI 💻👩‍💻   
+I work with Blender 🔌   
+Tool developer at MAD Entertainment animation studio since 2021, occasionally rigger and technical artist. 🎨🔢   
+Python  🐍  
+C/C++ 🔠  
 
-In this profile repositories of tools developed and mantained for MAD in these years can be found: 
+On this profile repositories of Python tools for Blender developed and mantained for MAD in these years can be found: 
 
 https://github.com/Betti83771/MAD_tools_for_Blender3,
 
