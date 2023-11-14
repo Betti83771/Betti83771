@@ -1,6 +1,7 @@
 Hello 👋   
 My name is Betti Abbattista 🦌   
 22 Y/O 📅  
+European 🌍
 Fresh graduate in the bachelor's degree of Cinema and Media 🎥🎬  
 Animated content and CGI 💻👩‍💻   
 I work with Blender 🔌   
