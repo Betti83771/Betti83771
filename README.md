@@ -2,10 +2,12 @@ Hello 👋
 My name is Betti Abbattista 🦌   
 22 Y/O 📅  
 European 🌍  
-Fresh graduate in the bachelor's degree of Cinema and Media 🎥🎬  
+Graduate bachelor's degree of Cinema and Media 🎥🎬  
 Animated content and CGI 💻👩‍💻   
 I work with Blender 🔌   
-Tool developer at MAD Entertainment animation studio since 2021, occasionally rigger and technical artist. 🎨🔢   
+Tool developer at Eddy Studio 🇫🇷 since May 2024 🎨🔢   
+Unreal Engine teacher 😌👩‍🏫 and plugin developer 👩‍💻    
+Tool developer at MAD Entertainment studio 🇮🇹 2021 - 2023, occasionally rigger and technical artist. 🎨🔢   
 Python  🐍  
 C/C++ 🔠  
 
